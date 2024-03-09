@@ -8,7 +8,7 @@ self.config = {
 		title: "somosvos.org",
 		color: "#000000",
 		url_site: base_url + "/",
-		og_image: base_url + "/statics/images/TBD.jpg",
+		og_image: base_url + "/statics/images/somosvoslogo.jpg",
 		canonical: "http://www.somosvos.org/"
 	},
 	sitePathCom: base_url,
